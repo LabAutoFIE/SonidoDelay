@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SonidoDelay</string>
+    <string name="hint_text">Usá auriculares con cable para menor latencia.</string>
+    <string name="retardo_label">Retardo: 200 ms</string>
+    <string name="measure_latency">Medir latencia</string>
+    <string name="retardo_label2">Retardo: %1$d ms</string>
+    <string name="latencia_medida">Latencia medida: %1$d ms</string>
+</resources>
